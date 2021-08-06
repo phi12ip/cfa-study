@@ -13,7 +13,7 @@ Date: 2013
 
 ## Websites
 
-https://www.cfainstitute.org/en/programs/cfa/curriculum
-https://www.cfainstitute.org/en/ethics-standards/codes/code-of-ethics-and-standards-of-professional-conduct
-https://www.cfainstitute.org/en/ethics-standards/codes/gips-standards
+- https://www.cfainstitute.org/en/programs/cfa/curriculum
+- https://www.cfainstitute.org/en/ethics-standards/codes/code-of-ethics-and-standards-of-professional-conduct
+- https://www.cfainstitute.org/en/ethics-standards/codes/gips-standards
 
